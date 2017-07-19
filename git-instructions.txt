@@ -1,0 +1,7 @@
+git status = show status of all the files I've worked on
+
+git add . = (. or -p) (-p shows all code changes since previous push) stages everything
+
+git commit -m "commit message here" = commits changes
+
+git push = pushes (when you can see changes) 
